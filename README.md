@@ -16,7 +16,7 @@ This is a full stack web application to upload files, view and download files.
 
 ## Project Structure
 
-DropBox-Clone
+File-Upload
 --> backend
     --> server.js
 --> my-app(frontend)
